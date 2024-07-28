@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-I am a B. Tech 2nd year student. I'm into frontend development.
+I am a B. Tech 3rd year student. I'm into Web Development.
 
 * ✉️  You can contact me at [chet4nsingh@gmail.com](mailto:chet4nsingh@gmail.com)
 * 🧠  I'm learning JavaScript
