@@ -7,7 +7,7 @@ Developer
 I am a B. Tech 3rd year student. I'm into Web Development.
 
 * ✉️  You can contact me at [chet4nsingh@gmail.com](mailto:chet4nsingh@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
